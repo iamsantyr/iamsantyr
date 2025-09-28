@@ -15,7 +15,6 @@ I am a passionate software developer with a strong interest in technology and in
 - LinkedIn: https://www.linkedin.com/in/santiago-rodriguez-prieto-9019a5350/
 
 ## Certifications
-## 📜 Certifications
 
 - [**Networking Essentials** – Cisco Networking Academy](https://www.netacad.com/portal/learning#/curriculum/31307920-c5d4-48ae-b319-4bbe57edbe99) (Issued: October 11, 2022)
 - [**Introduction to Cybersecurity** – Cisco Networking Academy](https://www.netacad.com/portal/learning#/curriculum/31307920-c5d4-48ae-b319-4bbe57edbe99) (Issued: March 30, 2022)
