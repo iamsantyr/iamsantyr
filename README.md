@@ -3,7 +3,7 @@
 I am a passionate software developer with a strong interest in technology and innovation. I specialize in DataBases and Programing (Backend and Frontend), and am particularly interested in make projects for companies and startups.
 
 ## Skills
-- Languages: Python, JavaScript, Java, Arduino, Swift, C++, C, SQL, C#, R, HTML and PowerShell
+- Languages: Python, JavaScript, Java, Arduino, Swift, C++, C, SQL, HTML and PowerShell
 - Frameworks: FLutter and JUnit
 - Tools: Git, GitHub, Trello, Assembly, MySQL, MongoDB, SQL Server and Oracle Database
 
