@@ -11,7 +11,7 @@ I am a passionate software developer with a strong interest in technology and in
 - PontiMarket (https://github.com/iamsantyr/PontiMarket): It is a marketplace designed especially for university student entrepreneurs, helping them highlight their products and complete purchases safely and quickly.
 
 ## Contact
-- Email: iamsantyr@gmail.com
+- Email: dsrp22dsrp@gmail.com / iamsantyr@gmail.com
 - LinkedIn: https://www.linkedin.com/in/santiago-rodriguez-prieto-9019a5350/
 
 ## Certifications
