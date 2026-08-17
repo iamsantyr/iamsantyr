@@ -17,5 +17,5 @@ Estudiante de Ingeniería de Sistemas construyendo aplicaciones full-stack, agen
 
 ## Contact
 
-- Email: dsrp22dsrp@gmail.com
+- Email: iamsantyr@gmail.com
 - LinkedIn: https://www.linkedin.com/in/santiago-rodriguez-prieto-9019a5350/
