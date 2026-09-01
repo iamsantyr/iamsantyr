@@ -6,6 +6,7 @@ Estudiante de Ingeniería de Sistemas construyendo aplicaciones full-stack, agen
 
 - **PropertyPilot AI** ([repo](https://github.com/iamsantyr/property-pilot-ai) · [demo en vivo](https://property-pilot-ai.onrender.com)) — Agente de IA que responde preguntas y califica leads inmobiliarios en tiempo real, con tool calling estructurado y captura automática de leads. Node.js + Anthropic Claude API, desplegado en producción.
 - **PontiMarket** ([repo](https://github.com/iamsantyr/PontiMarket)) — Marketplace móvil para emprendedores universitarios, con autenticación y soporte multilenguaje. Construido en Swift/Xcode.
+- **DualCorePage** ([repo](https://github.com/iamsantyr/DualCorePage)) — Sitio de DualCore Intelligence Labs, estudio de soluciones de IA que cofundé. Angular 17, componentes standalone, formulario de contacto con EmailJS.
 
 ## Skills
 
